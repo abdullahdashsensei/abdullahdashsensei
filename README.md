@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=4"/>
 
-# 🦇 Abdullah Sensei 🦇 # 
+# 🦇 Abdullah Sensei 🦇 #
 
 **No cape. No shortcuts. Just the work.**
 
@@ -10,8 +10,6 @@
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/abdullahdashsensei?style=for-the-badge&labelColor=1a1a1a&color=000000)
-![Repos](https://img.shields.io/github/repositories/abdullahdashsensei?style=for-the-badge&labelColor=1a1a1a&color=000000)
 ![Open to Work](https://img.shields.io/badge/Open_to-Internships-000000?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
