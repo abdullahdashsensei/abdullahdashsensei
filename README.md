@@ -53,20 +53,23 @@ I'm learning the fundamentals properly (HTML, CSS, JavaScript) before reaching f
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,visualstudio&theme=dark"/>
 
+<br/>
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-<br/><br/>
-
-| Area | Tools |
-|:---:|:---:|
-| Front end | HTML, CSS, JavaScript |
-| Data | SQL (SQL Server) |
-| Workflow | Git, GitHub, Visual Studio |
-| Next up | React, Next.js |
 
 </div>
 
----
+
+<div align="center">
+
+| Area | Tools |
+|:---|:---|
+| **Front end** | HTML, CSS, JavaScript |
+| **Data** | SQL (SQL Server) |
+| **Workflow** | Git, GitHub, Visual Studio |
+| **Next up** | React, Next.js |
+
+</div>
 
 ## Currently Building
 
