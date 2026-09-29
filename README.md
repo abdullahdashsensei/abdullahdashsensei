@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=4"/>
 
-# 🦇 Abdullah
+# 🦇 Abdullah Sensei 🦇 # 
 
 **No cape. No shortcuts. Just the work.**
 
