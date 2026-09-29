@@ -1,114 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=ABDULLAH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=software%20engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=4"/>
 
-<br>
+<h1>🦇 Abdullah</h1>
+<p><b>No cape. No shortcuts. Just the work.</b></p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=building+in+silence.;learning+C%2B%2B+the+hard+way.;shipping+real+projects%2C+not+excuses.;still+early.+still+here." alt="typing-svg" />
+<a href="https://github.com/abdullahdashsensei"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+Gotham+doesn%27t+need+more+noise%2C+it+needs+results;%3E+Learning+web+development%2C+one+commit+at+a+time;%3E+Understand+it+before+you+ship+it;%3E+Open+to+internships+%26+junior+roles" alt="Typing SVG"/></a>
+
+<br/>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
 
 </div>
 
-<br>
+<p align="center">🦇 ⋆｡˚ ⋆ 🦇 ⋆ ˚｡⋆ 🦇</p>
 
-▸ **about**
+## About
 
-Software Engineering student. Working mainly in C++, learning how systems, databases, and real applications actually fit together — not memorizing syntax, understanding mechanics.
+Hi, I'm **Abdullah** 🦇 — a Software Engineering student at the University of Agriculture, Faisalabad, now shifting focus toward web development. No templates, no shortcuts — HTML, CSS, JS, and patience.
 
-No pretending I know more than I do. Just consistent, unglamorous progress — one project, one bug, one late night at a time.
+Learning the fundamentals properly before reaching for frameworks. Building toward my first real web project.
 
-<br>
+```js
+const abdullah = {
+  role: "Software Engineering Student @ UAF, Faisalabad",
+  focus: "Web Development",
+  toolkit: ["HTML", "CSS", "JavaScript", "Git", "GitHub", "SQL"],
+  learning: ["React", "Next.js"],
+  codeStyle: "understand it before you ship it",
+  currently: "building my first real web project",
+  openTo: ["internships", "junior developer roles"],
+  motto: "quiet work, no noise"
+};
+```
+
+<blockquote>
+🦇 <em>"Some build in the spotlight. Others build in the dark and let the work answer for itself."</em> 🦇
+</blockquote>
+
+<table>
+<tr>
+<td width="25%" align="center"><b>Focus</b><br/><sub>Web Development</sub></td>
+<td width="25%" align="center"><b>Building</b><br/><sub>First Real Project</sub></td>
+<td width="25%" align="center"><b>Open To</b><br/><sub>Internships</sub></td>
+<td width="25%" align="center"><b>Status</b><br/><sub>Still Early</sub></td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=3"/>
+
+## Stack
 
 <div align="center">
 
-▸ ▸ ▸
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,visualstudio&theme=dark"/>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=000000)
+
+<br/><br/>
+
+<sub>🦇 Currently studying: <b>React</b> · <b>Next.js</b></sub>
 
 </div>
 
-<br>
+<p align="center">🦇 ⋆｡˚ ⋆ 🦇 ⋆ ˚｡⋆ 🦇</p>
 
-▸ **currently learning**
-
-<br>
-
-▸ **tech stack**
+## Projects
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6)
+**Nothing shipped yet.** First real web project is in the works — this section fills in when it exists, not before.
 
 </div>
 
-<br>
+<p align="center">🦇 ⋆｡˚ ⋆ 🦇 ⋆ ˚｡⋆ 🦇</p>
 
-▸ **the numbers** *(pulled live from GitHub, not written by hand)*
+## Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahdashsensei&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdashsensei&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9" width="48%"/>
 
-<br>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdashsensei&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="60%"/>
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=3"/>
 
-▸ **activity**
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
+<a href="https://www.linkedin.com/in/abdullah-mumtaz-b7973743b"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdullahmumtaz2051@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abdullahdashsensei"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer"/>
 
 </div>
 
-<br>
-
-▸ **projects**
-
-**StudentHub**
-A university student registration & login system — course enrollment, dashboards, and a SQL Server backend tying it together. First real attempt at building something end-to-end instead of another scattered tutorial project.
-`repo → YOUR_PROJECT_LINK`
-
-More being built as the fundamentals get sharper. This section grows slowly — but it grows.
-
-<br>
-
-▸ **right now**
-
-- Sharpening core C++ and OOP concepts
-- Getting real with SQL Server and database design
-- Turning half-finished ideas into actual working builds
-- One commit at a time — not one excuse at a time
-
-<br>
-
-▸ **beyond code**
-
-When I'm not staring down a compiler error at 2AM — gaming, anime, gym, and whatever's hijacked my attention this week.
-
-<br>
-
-<div align="center">
-
-▸ ▸ ▸
-
-<br>
-
-`quietly building. quietly improving.`
-
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">🦇 quietly building. quietly improving. 🦇</p>
