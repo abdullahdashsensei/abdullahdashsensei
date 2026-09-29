@@ -35,9 +35,13 @@ Hi, I'm **Abdullah** 👋 — a Software Engineering student at the **University
 
 I'm learning the fundamentals properly (HTML, CSS, JavaScript) before reaching for frameworks, so I can explain every line I ship.
 
+<div align="center">
+
 | 🎯 Focus | 🔨 Building | 🤝 Open To | 📚 Learning |
 |:---:|:---:|:---:|:---:|
 | Web Development | My first real web project | Internships & junior roles | React, Next.js |
+
+</div>
 
 > *"Some build in the spotlight. Others build in the dark and let the work answer for itself."*
 
@@ -51,14 +55,16 @@ I'm learning the fundamentals properly (HTML, CSS, JavaScript) before reaching f
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-</div>
+<br/><br/>
 
 | Area | Tools |
-|---|---|
+|:---:|:---:|
 | Front end | HTML, CSS, JavaScript |
 | Data | SQL (SQL Server) |
 | Workflow | Git, GitHub, Visual Studio |
 | Next up | React, Next.js |
+
+</div>
 
 ---
 
@@ -66,10 +72,14 @@ I'm learning the fundamentals properly (HTML, CSS, JavaScript) before reaching f
 
 My first real web project is in progress. This table will be updated with links as things ship.
 
+<div align="center">
+
 | Project | Status | Tech |
-|---|---|---|
+|:---:|:---:|:---:|
 | First web project | 🚧 In progress | HTML · CSS · JavaScript |
 | React learning path | 📖 Studying | React, Next.js |
+
+</div>
 
 ---
 
