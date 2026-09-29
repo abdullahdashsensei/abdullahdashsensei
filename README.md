@@ -2,97 +2,100 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=4"/>
 
-<h1>🦇 Abdullah</h1>
-<p><b>No cape. No shortcuts. Just the work.</b></p>
+# 🦇 Abdullah
 
-<a href="https://github.com/abdullahdashsensei"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+Gotham+doesn%27t+need+more+noise%2C+it+needs+results;%3E+Learning+web+development%2C+one+commit+at+a+time;%3E+Understand+it+before+you+ship+it;%3E+Open+to+internships+%26+junior+roles" alt="Typing SVG"/></a>
+**No cape. No shortcuts. Just the work.**
+
+<a href="https://github.com/abdullahdashsensei"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+Software+Engineering+student+%7C+Web+Developer;%3E+Learning+web+development%2C+one+commit+at+a+time;%3E+Understand+it+before+you+ship+it;%3E+Open+to+internships+%26+junior+roles" alt="Typing SVG"/></a>
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/About-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
-<a href="#stats"><img src="https://img.shields.io/badge/Stats-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&labelColor=1a1a1a"/></a>
+![Followers](https://img.shields.io/github/followers/abdullahdashsensei?style=for-the-badge&labelColor=1a1a1a&color=000000)
+![Repos](https://img.shields.io/github/repositories/abdullahdashsensei?style=for-the-badge&labelColor=1a1a1a&color=000000)
+![Open to Work](https://img.shields.io/badge/Open_to-Internships-000000?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
 
-<p align="center">🦇 ⋆｡˚ ⋆ 🦇 ⋆ ˚｡⋆ 🦇</p>
+---
+
+## 📑 Table of Contents
+
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [Currently Building](#currently-building)
+- [Work With Me](#work-with-me)
+- [GitHub Activity](#github-activity)
+- [Connect](#connect)
+
+---
 
 ## About
 
-Hi, I'm **Abdullah** 🦇 — a Software Engineering student at the University of Agriculture, Faisalabad, now shifting focus toward web development. No templates, no shortcuts — HTML, CSS, JS, and patience.
+Hi, I'm **Abdullah** 👋 — a Software Engineering student at the **University of Agriculture, Faisalabad**, focusing on **web development**.
 
-Learning the fundamentals properly before reaching for frameworks. Building toward my first real web project.
+I'm learning the fundamentals properly (HTML, CSS, JavaScript) before reaching for frameworks, so I can explain every line I ship.
 
-```js
-const abdullah = {
-  role: "Software Engineering Student @ UAF, Faisalabad",
-  focus: "Web Development",
-  toolkit: ["HTML", "CSS", "JavaScript", "Git", "GitHub", "SQL"],
-  learning: ["React", "Next.js"],
-  codeStyle: "understand it before you ship it",
-  currently: "building my first real web project",
-  openTo: ["internships", "junior developer roles"],
-  motto: "quiet work, no noise"
-};
-```
+| 🎯 Focus | 🔨 Building | 🤝 Open To | 📚 Learning |
+|:---:|:---:|:---:|:---:|
+| Web Development | My first real web project | Internships & junior roles | React, Next.js |
 
-<blockquote>
-🦇 <em>"Some build in the spotlight. Others build in the dark and let the work answer for itself."</em> 🦇
-</blockquote>
+> *"Some build in the spotlight. Others build in the dark and let the work answer for itself."*
 
-<table>
-<tr>
-<td width="25%" align="center"><b>Focus</b><br/><sub>Web Development</sub></td>
-<td width="25%" align="center"><b>Building</b><br/><sub>First Real Project</sub></td>
-<td width="25%" align="center"><b>Open To</b><br/><sub>Internships</sub></td>
-<td width="25%" align="center"><b>Status</b><br/><sub>Still Early</sub></td>
-</tr>
-</table>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=3"/>
-
-## Stack
+## Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,visualstudio&theme=dark"/>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=000000)
-
-<br/><br/>
-
-<sub>🦇 Currently studying: <b>React</b> · <b>Next.js</b></sub>
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
-<p align="center">🦇 ⋆｡˚ ⋆ 🦇 ⋆ ˚｡⋆ 🦇</p>
+| Area | Tools |
+|---|---|
+| Front end | HTML, CSS, JavaScript |
+| Data | SQL (SQL Server) |
+| Workflow | Git, GitHub, Visual Studio |
+| Next up | React, Next.js |
 
-## Projects
+---
+
+## Currently Building
+
+My first real web project is in progress. This table will be updated with links as things ship.
+
+| Project | Status | Tech |
+|---|---|---|
+| First web project | 🚧 In progress | HTML · CSS · JavaScript |
+| React learning path | 📖 Studying | React, Next.js |
+
+---
+
+## Work With Me
+
+I'm looking for **internships and junior developer roles**, and I'm happy to collaborate on small open-source projects.
+
+- 💬 **Have feedback?** Open an issue or message me. Code-review tips are welcome.
+- 🤝 **Starting a beginner-friendly project?** I'd love to contribute.
+- 💼 **Hiring?** Reach me on LinkedIn or email below.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-**Nothing shipped yet.** First real web project is in the works — this section fills in when it exists, not before.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdashsensei&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
 
 </div>
 
-<p align="center">🦇 ⋆｡˚ ⋆ 🦇 ⋆ ˚｡⋆ 🦇</p>
+<!-- Stats and top-langs cards: re-add once you have public repos.
+     If they show as broken images, the shared server is rate-limited;
+     self-host github-readme-stats on your own Vercel account. -->
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahdashsensei&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdashsensei&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdashsensei&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="60%"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=3"/>
+---
 
 ## Connect
 
@@ -106,6 +109,6 @@ const abdullah = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer"/>
 
-</div>
+🦇 *quietly building. quietly improving.* 🦇
 
-<p align="center">🦇 quietly building. quietly improving. 🦇</p>
+</div>
